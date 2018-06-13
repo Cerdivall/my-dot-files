@@ -1,0 +1,12 @@
+set rtp+=/usr/share/powerline/bindings/vim
+python3 from powerline.vim import setup as powerline_setup
+python3 powerline_setup()
+python3 del powerline_setup
+
+"Ustawienia różne
+set ruler laststatus=2 title hlsearch nu
+syntax on
+
+"Mapowanie języków
+map <F6> :setlocal spell! spelllang=pl<CR>
+map <F7> :setlocal spell! spelllang=en_gb<CR>
