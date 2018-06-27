@@ -7,3 +7,6 @@
 ## POP!_OS
 * bashrc
 * vimrc
+
+## Xubuntu
+* bashrc
