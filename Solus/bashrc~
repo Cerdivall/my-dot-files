@@ -5,8 +5,6 @@ alias eoit="sudo eopkg it"
 alias eosr="eopkg sr"
 alias eoup="sudo eopkg up"
 
-alias news='newsboat'
-
 alias ssh-nc="ssh cerdivall@46.101.188.117"
 alias ssh-dell="ssh 'cerdivall@192.168.100.107'"
 
