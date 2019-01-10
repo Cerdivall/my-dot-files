@@ -1,0 +1,9 @@
+# Automatyczne odświeżanie
+auto-reload yes
+reload-time 30
+
+# Domyślna przeglądarka
+browser firefox
+
+# Oznaczone artykuły
+feedhq-flag-star "o"

@@ -1,0 +1,150 @@
+"query:Oznaczone Artykuły:flags # \"o\""
+"query:Linux:tags # \"linux\"" linux
+"query:Anime:tags # \"Anime\"" Anime
+"query:Manga:tags # \"Manga\"" Manga
+"query:News:tags # \"News\"" News
+"query:Wiadomości IT:tags # \"it\"" it
+"query:Bezpieczeństwo:tags # \"Bezpieczeństwo\"" Bezpieczeństwo
+"query:Science:tags # \"Science\"" Science
+"query:Stuff:tags # \"Stuff\"" Stuff
+"query:YouTube Główny:tags # \"ytg\"" "YouTube Główny"
+"query:YouTube Tech:tags # \"ytt\"" "YouTube Tech"
+
+https://www.dedoimedo.com/rss_feed.xml "linux"
+https://www.gamingonlinux.com/article_rss.php "linux"
+https://feeds.feedburner.com/ItsFoss "linux"
+http://feeds.feedburner.com/LifereaBlog "linux"
+https://feeds.feedburner.com/linuxtoday/linux "linux"
+http://www.lunduke.com/ferdapatrons/LundukeShow720RSS.xml "linux" Lunduke
+https://www.patreon.com/rss/bryanlunduke?auth=t72f_r8ZCtgTm_CTAHro5WLtENu31wq7 "linux" Lunduke
+https://www.markshuttleworth.com/feed "linux"
+https://feeds.feedburner.com/d0od "linux"
+https://www.linux.com/feeds/rss "linux" "~linux.com"
+https://opensource.com/feed "linux"
+https://www.phoronix.com/rss.php "linux"
+http://planet.ubuntu.com/rss20.xml "linux"
+http://lukesmith.xyz/rss.xml "linux"
+https://samsai.online/index.xml "linux"
+http://horriblesubs.info/rss.php?res=1080 Anime
+https://readms.net/rss "Manga"
+http://fanfox.net/rss/ajin.xml Manga Mangafox
+http://fanfox.net/rss/eden_s_zero.xml Manga Mangafox
+http://fanfox.net/rss/kingdom.xml Manga Mangafox
+http://fanfox.net/rss/overlord.xml Manga Mangafox
+http://fanfox.net/rss/re_monster.xml Manga Mangafox
+http://fanfox.net/rss/star_martial_god_technique.xml Manga Mangafox
+http://fanfox.net/rss/tales_of_demons_and_gods.xml Manga Mangafox
+http://fanfox.net/rss/tensei_shitara_slime_datta_ken.xml Manga Mangafox
+http://fanfox.net/rss/witch_hunter.xml Manga Mangafox
+https://www.webtoons.com/en/slice-of-life/my-giant-nerd-boyfriend/rss?title_no=958 Manga Webtoon
+https://www.webtoons.com/en/comedy/safely-endangered/rss?title_no=352 Manga Webtoon
+https://www.webtoons.com/en/challenge/sarahs-scribbles/rss?title_no=50260 Manga Webtoon
+https://www.webtoons.com/en/fantasy/the-gamer/rss?title_no=88 Manga Webtoon
+https://www.webtoons.com/en/action/the-god-of-high-school/rss?title_no=66 Manga Webtoon
+https://www.webtoons.com/en/fantasy/tower-of-god/rss?title_no=95 Manga Webtoon
+https://www.webtoons.com/en/fantasy/unordinary/rss?title_no=679 Manga Webtoon
+https://feeds.feedburner.com/arstechnica/index "News"
+http://rss.slashdot.org/Slashdot/slashdotMain "News"
+http://www.benchmark.pl/rss/aktualnosci-pliki.xml it
+http://feeds.feedburner.com/dobreprogramy/Aktualnosci?format=xml it
+http://feeds.feedburner.com/glowny-di?format=xml it
+https://twojepc.pl/news_rss.php it
+http://feeds.feedburner.com/Sekurak?format=xml Bezpieczeństwo
+http://feeds.feedburner.com/niebezpiecznik?format=xml Bezpieczeństwo
+https://www.sciencenews.org/feeds/headlines.r\"ss "Science"
+https://feeds.feedburner.com/sciencealert-latestnews "Science"
+https://ar.al/index.xml "Stuff"
+https://ar.al/tags/hypha/index.xml "Stuff"
+https://www.xkcd.com/atom.xml "Stuff"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCFkv_BAbjhbUoecdg4R01Lw "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCB2qUN1x40FQiXISG6cGthQ "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCIUYdIIld_2bsymqWDCdOFQ "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCeMbJVcYAwc6OF_0rDF0_6A "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCnjRfYt5SUX8oGgPVm4qElA "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRWskElXZvb3q0W5JopPTnQ "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCwqTIYOJpStr3fYHFBVKtlQ "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHfp1ZNjKYZAaG7tgmYLZfw "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?user=JennyENicholson "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCA9rBnM2QdIH3AL6maNIu8g "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCd2ms0JO01AWt8l50GwSJJg "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCiRHQTkJlOSgfkEREhDhabQ "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzuvRWjh7k1SZm1RvqvIx4w "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCcd_-s_2DZUWYsqV_xSJgxA "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzn6vAfspIcagLax1fck_jw "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?user=prawicowyinternet "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWTA5Yd0rAkQt5-9etIFoBA "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3ETCazlHenpXEsrEJH-k5A "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzybXLxv08IApdjdN0mJhEg "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9dHOMEGRHhlHDbr_NaZFbA "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtGnMWpCcoRZVWxkVKp3Ulg "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCggq3qvOrrM2u9gRL7oMOfA "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCnTyQz2p7GVRxEGVxahUzuA "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCViVL2aOkLWKcFVi0_p6u6g "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgo2BrI5xkXduYvYv6lskkg "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCH87Z4awXSfN_phzQ-_4BUA "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3QOjSZmJuYgb98BAzKfzig "YouTube Główny" ytg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzozMcF1kcR9dzsdEkRHdaw "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvmDAc3nDHJI8a6HrLG2NUw "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCcZ2JAtw7FYXdtyOU-0T5vA "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtZRKfyvx7GUEi-Lr7f4Nxg "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCKTehwyGCKF-b2wo0RKwrcg "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?user=BryanLunduke "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCiu3bwoy2wcD9OYEFxuHp1A "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNP_LDBvWldxCkVYLzFcwPQ "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAPR27YUyxmgwm3Wc2WSHLw "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbKoGWosBkBFMkUAYW8F5jQ "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCIme1suHyN7cAGrTy8RBdhQ "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWJUSpXVHTaHErtGWC5qPlQ "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRuUzEZux8Y6yISPeGDIHdg "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXa6sE6cKXcQ97vI0Emn1XA "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjLSKO00DqkEPHn6lr6tpFQ "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRBHiacaQb5S70pljtJYB2g "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJdmdUp5BrsWsYVQUylCMLg "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7VF-cIfsTzsoNgy8ZbZQxg "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCxpnIv8WtJ3O-cIvriPeXnQ "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCfXpCALnoC2zsdcKx2XirbQ "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8jkbVLPvztz8TuE98OYo8Q "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCGcF0fKGWCu1a-QJ6crOHlQ "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCm9lqWLMec4klbLEtUxKSbg "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkf4VIqu3Acnfzuk3kRIFwA "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3s0BtrBJpwNDaflRSoiieQ "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRE3NFNtdjR96-H4QG4U1Fg "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCD2Zf2yWOwtaJ0SFV35OGVQ "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3jSNmKWYA04R47fDcc1ImA "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCTfabOKD7Yty6sDF4POBVqA "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHugE6eRhqB9_AZQh4DDbIw "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHkYOD-3fZbuGhwsADBd9ZQ "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCOWcZ6Wicl-1N34H0zZe38w "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4w1YQAJMWOz4qtxinq55LQ "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQpkMe-SLNg0HwWCP3eeTxw "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCG4sjJpnXADCbgHepLiercA "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBLHhOS9kpixWuLmBP6oIjQ "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbHXJGd7c8Hy4z0-YX1Jf3Q "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCc6MhFTqnuIpEGgLBm_jwtw "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBE-FO9JUOghSysV9gjTeHw "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UChYU73igK5wQhWAXPh3X8PA "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0A3ldncnGQ1M_RU2Wb4L2A "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyvaZ2RHEDrgKXz43gz7CbQ "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?user=LinuxSpatry "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQYHTF4v3Yo-Cj1MRFShb7Q "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCl4RpXZdQUhikTxBghAy1jQ "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoryWpk4QVYKFCJul9KBdyw "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UChORY56LMMETTuGjXaJXvLg "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UChbPPlut49VxrJ1gdHSM7vg "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCaSM4GqhbaVmRT7fmmFmR1w "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?user=razethew0rld "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0vBXGSyV14uvJ4hECDOl0Q "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzZEwjZEnPFHlMQYIUaByAw "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCv1Kcz-CuGM6mxzL3B1_Eiw "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbZ8wD6pmGb9qHqvx9M4YBw "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCcJEcTGtV0awEOgQm0lm2VQ "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCmyGZ0689ODyReHw3rsKLtQ "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsTcErHg8oDvUnTzoqsYeNw "YouTube Tech" ytt
+https://www.youtube.com/feeds/videos.xml?channel_id=UCfO-84lKbgk4-H3NYBapp_g "YouTube Tech" ytt
